@@ -28,31 +28,31 @@ Microsoft Excel (Data Cleaning \& Preprocessing)
 
 
 
-EV growth trend by model year
+1. EV growth trend by model year
 
 
 
-State-wise vehicle distribution
+2. State-wise vehicle distribution
 
 
 
-Market share by manufacturer
+3. Market share by manufacturer
 
 
 
-Top vehicle models
+4. Top vehicle models
 
 
 
-BEV vs PHEV comparison
+5. BEV vs PHEV comparison
 
 
 
-CAFV eligibility breakdown
+6. CAFV eligibility breakdown
 
 
 
-Average electric range analysis
+7. Average electric range analysis
 
 
 
@@ -60,19 +60,21 @@ Average electric range analysis
 
 
 
+
+
 BEVs dominate EV registrations
 
 
 
-Significant growth observed post-2018
+1. Significant growth observed post-2018
 
 
 
-Tesla holds major market share
+2. Tesla holds major market share
 
 
 
-Geographic concentration visible in select states
+3. Geographic concentration visible in select states
 
 
 
@@ -88,18 +90,19 @@ This dashboard helps stakeholders:
 
 
 
-Understand EV market expansion
+1. Understand EV market expansion
 
 
 
-Identify leading manufacturers
+2. Identify leading manufacturers
 
 
 
-Track regional adoption patterns
+3. Track regional adoption patterns
 
 
 
-Analyze policy impact via CAFV eligibility
+4. Analyze policy impact via CAFV eligibility
+
 
 
